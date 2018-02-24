@@ -1,0 +1,7 @@
+name: WeatherVote
+main: me.zackpollard.weathervote.WeatherVote
+version: "0.1"
+commands:
+    wv:
+        description: WeatherVote
+        usage: Use this command to vote for sun when the vote comes around.
